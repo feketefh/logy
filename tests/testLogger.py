@@ -1,5 +1,5 @@
 # tests/test_logger.py
-from beauty_log import Logger
+from beautylog import Logger
 
 
 def testInstantiation():
