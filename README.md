@@ -16,7 +16,7 @@ pip install beauty-log
 ## Quick Start
 
 ```python
-from beauty_log import Logger
+from beautylog import Logger
 
 logger = Logger(
     tree=["{time}", "{level}", "{message}"],
@@ -38,7 +38,7 @@ Output:
 ### Basic Setup
 
 ```python
-from beauty_log import Logger
+from beautylog import Logger
 
 logger = Logger(
     tree=["{time}", "{level}", "{message}"],   # defines the output format
